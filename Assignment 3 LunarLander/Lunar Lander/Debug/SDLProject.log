@@ -1,0 +1,21 @@
+﻿  Entity.cpp
+C:\Users\leann\OneDrive\Pictures\Documents\CS3113\CS3113-Lunar-Lander\Entity.h(108,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\leann\OneDrive\Pictures\Documents\CS3113\CS3113-Lunar-Lander\Entity.h(109,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\leann\OneDrive\Pictures\Documents\CS3113\CS3113-Lunar-Lander\Entity.cpp(124,55): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\leann\OneDrive\Pictures\Documents\CS3113\CS3113-Lunar-Lander\Entity.cpp(125,61): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  main.cpp
+C:\Users\leann\OneDrive\Pictures\Documents\CS3113\CS3113-Lunar-Lander\Entity.h(108,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\leann\OneDrive\Pictures\Documents\CS3113\CS3113-Lunar-Lander\Entity.h(109,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\leann\OneDrive\Pictures\Documents\CS3113\CS3113-Lunar-Lander\main.cpp(176,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\leann\OneDrive\Pictures\Documents\CS3113\CS3113-Lunar-Lander\main.cpp(304,27): warning C4018: '<': signed/unsigned mismatch
+  ShaderProgram.cpp
+  Generating Code...
+  SDLProject.vcxproj -> C:\Users\leann\OneDrive\Pictures\Documents\CS3113\CS3113-Lunar-Lander\Debug\SDLProject.exe
