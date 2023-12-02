@@ -1,0 +1,7 @@
+﻿  LevelC.cpp
+C:\Users\leann\Documents\CS3113\LeannaMoyCS3113\Platformer\Entity.h(131,58): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\leann\Documents\CS3113\LeannaMoyCS3113\Platformer\Entity.h(132,58): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\leann\Documents\CS3113\LeannaMoyCS3113\Platformer\LevelC.cpp(58,32): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\leann\Documents\CS3113\LeannaMoyCS3113\Platformer\LevelC.cpp(58,25): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\leann\Documents\CS3113\LeannaMoyCS3113\Platformer\LevelC.cpp(58,18): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Platformer.vcxproj -> C:\Users\leann\Documents\CS3113\LeannaMoyCS3113\Platformer\Debug\Platformer.exe
