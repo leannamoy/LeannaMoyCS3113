@@ -1,9 +1,0 @@
-﻿  Entity.cpp
-C:\Users\leann\OneDrive\Pictures\Documents\CS3113\AI Project\Entity.cpp(9,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
-  main.cpp
-C:\Users\leann\OneDrive\Pictures\Documents\CS3113\AI Project\main.cpp(12,10): fatal  error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
-  ShaderProgram.cpp
-C:\Users\leann\OneDrive\Pictures\Documents\CS3113\AI Project\ShaderProgram.h(3,10): fatal  error C1014: too many include files: depth = 1024
-  Utility.cpp
-C:\Users\leann\OneDrive\Pictures\Documents\CS3113\AI Project\Utility.h(11,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
-  Generating Code...
